@@ -1,0 +1,6 @@
+C:\Users\zvika\source\repos\PipeCatchBasin\PipeCatchBasin\bin\Debug\PipeCatchBasin.dll
+C:\Users\zvika\source\repos\PipeCatchBasin\PipeCatchBasin\bin\Debug\PipeCatchBasin.pdb
+C:\Users\zvika\source\repos\PipeCatchBasin\PipeCatchBasin\obj\Debug\PipeCatchBasin.csproj.AssemblyReference.cache
+C:\Users\zvika\source\repos\PipeCatchBasin\PipeCatchBasin\obj\Debug\PipeCatchBasin.csproj.CoreCompileInputs.cache
+C:\Users\zvika\source\repos\PipeCatchBasin\PipeCatchBasin\obj\Debug\PipeCatchBasin.dll
+C:\Users\zvika\source\repos\PipeCatchBasin\PipeCatchBasin\obj\Debug\PipeCatchBasin.pdb
