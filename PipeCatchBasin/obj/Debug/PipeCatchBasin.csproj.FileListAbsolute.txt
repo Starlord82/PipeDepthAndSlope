@@ -1,6 +1,0 @@
-C:\Users\user\Documents\GitHub\PipeDepthAndSlope\PipeCatchBasin\bin\Debug\PipeCatchBasin.dll
-C:\Users\user\Documents\GitHub\PipeDepthAndSlope\PipeCatchBasin\bin\Debug\PipeCatchBasin.pdb
-C:\Users\user\Documents\GitHub\PipeDepthAndSlope\PipeCatchBasin\obj\Debug\PipeCatchBasin.csproj.AssemblyReference.cache
-C:\Users\user\Documents\GitHub\PipeDepthAndSlope\PipeCatchBasin\obj\Debug\PipeCatchBasin.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\GitHub\PipeDepthAndSlope\PipeCatchBasin\obj\Debug\PipeCatchBasin.dll
-C:\Users\user\Documents\GitHub\PipeDepthAndSlope\PipeCatchBasin\obj\Debug\PipeCatchBasin.pdb
