@@ -129,6 +129,7 @@ namespace PipeCatchBasin
                     }
                     else
                     {
+                        startStruct.SumpDepth = startStruct.SumpDepth;
                         ed.WriteMessage($"\n✔ Structure {startStruct.Handle} sump depth unchanged");
                     }
                     startStruct.SumpElevation = pipeStartInvert + startStruct.SumpDepth;
