@@ -124,13 +124,12 @@ namespace PipeCatchBasin
                     // Optionally override sump
                     if (resetSump)
                     {
-                        startStruct.ApplyRules();
-                        startStruct.SumpDepth = 0;
+                        startStruct.SumpElevation = pipeStartInvert;
                         ed.WriteMessage($"\n✔ Structure {startStruct.Handle} sump depth set to 0");
                     }
                     else
                     {
-                        startStruct.ApplyRules();
+                        startStruct.SumpElevation = pipeStartInvert +startStruct.SumpDepth;
                         ed.WriteMessage($"\n✔ Structure {startStruct.Handle} sump depth unchanged");
                     }
                     ed.WriteMessage($"\n✔ Pipe {pipe.Handle} adjusted. Invert: {pipeStartInvert:F2}, Slope: {-pipeStartSlope * 100:F2}%");
